@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Boaz+Barimen+👋;AI+Engineer+🤖;Cloud+Architect+☁️;Mobile+%26+Web+Developer+📱;Automating+the+Future...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Boaz+Barimen+👋;AI+Engineer+🤖;Cloud+Architect+☁️;Mobile+%26+Web+Developer+📱;Automating+the+Future...+🚀)](https://git.io/typing-svg)
 
 ### 🤖 AI Engineer · ☁️ Cloud Architect · 📱 Mobile & Web Developer
 
@@ -21,21 +21,29 @@
 
 ---
 
-## 👋 Hi, I'm Boaz Barimen
+## 🛠️ Tech Stack
 
-> *"Automating the future, one line of code at a time."* 🎯
+<div align="center">
 
-I'm a passionate **AI Engineer** based in Kenya 🇰🇪, focused on building intelligent systems and scalable cloud solutions. I love turning complex problems into elegant, automated solutions.
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-```python
-boaz = {
-    "name": "Boaz Barimen",
-    "role": "AI Engineer & Full-Stack Developer",
-    "focus": ["#AI Engineering", "#CloudArchitecture", "#MobileAppDev", "#WebDevelopment"],
-    "contact": "+254700110021",
-    "motto": "Automating the future 🤖"
-}
-```
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🌐 Web & Mobile
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
 
 ---
 
@@ -60,6 +68,24 @@ boaz = {
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254700110021)
 
 </div>
+
+---
+
+## 👋 About Me
+
+> *"Automating the future, one line of code at a time."* 🎯
+
+I'm a passionate **AI Engineer** based in Kenya 🇰🇪, focused on building intelligent systems and scalable cloud solutions. I love turning complex problems into elegant, automated solutions.
+
+```python
+boaz = {
+    "name": "Boaz Barimen",
+    "role": "AI Engineer & Full-Stack Developer",
+    "focus": ["#AI Engineering", "#CloudArchitecture", "#MobileAppDev", "#WebDevelopment"],
+    "contact": "+254700110021",
+    "motto": "Automating the future 🤖"
+}
+```
 
 ---
 
